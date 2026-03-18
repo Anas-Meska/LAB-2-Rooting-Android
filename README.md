@@ -48,3 +48,25 @@ Checklist reset signée + preuves Procédure de décontamination effectuée La p
 ✓ Vérification qu'aucun certificat racine n'a été ajouté ✓ Wipe Data complet via Android Studio ✓ Effacement de la partition utilisateur au niveau du bloc ✓ Appareil remis dans son état initial "neuf"
 
 Preuves : Captures d'écran des commandes de wipe et de l'état final de l'AVD.
+## Captures d'écran du TP
+
+### Étape 0
+![Étape 0](lab2.png)
+
+### Étape 1
+![Étape 1](lab21.png)
+
+### Étape 2
+![Étape 2](lab22.png)
+
+### Étape 3
+![Étape 3](lab23.png)
+
+### Étape 4
+![Étape 4](lab24.png)
+
+### Étape 5
+![Étape 5](lab25.png)
+
+### Étape 6
+![Étape 6](lab26.png)
